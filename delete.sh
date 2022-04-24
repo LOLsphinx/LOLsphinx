@@ -35,4 +35,5 @@ sleep 3
 
 
 fi
+cd ~
 clear
