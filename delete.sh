@@ -50,3 +50,5 @@ then
 echo "[We will not delete your software LOLsphinx..]"
 
 fi
+
+clear
