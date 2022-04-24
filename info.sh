@@ -1,4 +1,8 @@
 #!/bin/bash
+
+chmod +x info.sh
+chmod +x LOLsphinx
+
 clear
 
 echo -n "Please Enter your name: " 
