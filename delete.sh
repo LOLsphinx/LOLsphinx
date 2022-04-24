@@ -25,8 +25,12 @@ cd
 
 clear
 
+sleep 2
+
 else [ "$del" = "no" ];
 echo "[We will not delete your software LOLsphinx..]"
+
+sleep 3
 
 
 fi
