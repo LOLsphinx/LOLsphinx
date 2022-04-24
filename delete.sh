@@ -23,7 +23,7 @@ echo "We're heading back to your Main Directory.."
 cd ~
 cd
 
-elif [ "$del" = "Yes" ];
+if [ "$del" = "Yes" ];
 then
 echo "[We're deleting your software LOLsphinx...]"
 
@@ -45,10 +45,9 @@ clear
 else [ "$del" = "no" ];
 echo "[We will not delete your software LOLsphinx..]"
 
-elif [ "$del" = "No ];
+else [ "$del" = "No ];
 then
 echo "[We will not delete your software LOLsphinx..]"
 
 fi
-
 clear
