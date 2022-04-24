@@ -1,5 +1,6 @@
 #!/bin/bash
 cd ~
+cd
 
 chmod +x delete.sh
 
@@ -35,5 +36,8 @@ sleep 3
 
 
 fi
-cd ~
+cd
+echo "Si Jed lang ang pogi!!!!!!!!!!!!!!!!!!!!"
+sleep 3
+
 clear
