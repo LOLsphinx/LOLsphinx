@@ -23,6 +23,13 @@ echo "We're heading back to your Main Directory.."
 cd ~
 cd
 
+clear
+
+else [ "$del" = "no" ];
+echo "[We will not delete your software LOLsphinx..]"
+
+fi
+
 if [ "$del" = "Yes" ];
 then
 echo "[We're deleting your software LOLsphinx...]"
@@ -38,16 +45,10 @@ echo "We're heading back to your Main Directory.."
 cd ~
 cd
 
-
-
-clear
-
-else [ "$del" = "no" ];
-echo "[We will not delete your software LOLsphinx..]"
-
 else [ "$del" = "No" ];
 then
 echo "[We will not delete your software LOLsphinx..]"
 
 fi
+
 clear
