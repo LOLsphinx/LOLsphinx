@@ -45,7 +45,7 @@ clear
 else [ "$del" = "no" ];
 echo "[We will not delete your software LOLsphinx..]"
 
-else [ "$del" = "No ];
+else [ "$del" = "No" ];
 then
 echo "[We will not delete your software LOLsphinx..]"
 
