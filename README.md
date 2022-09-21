@@ -16,7 +16,7 @@ $
 $
 $
 $
-THESE IS ALL THE COMMANDS THAT YOU CAN USE!
+THESE ARE ALL THE COMMANDS THAT YOU CAN USE!
 1. [bash info.sh]- to run the info.sh(Identity Reader) inside the info.sh there's a chmod, which's info.sh will be executable.
 
 --------------------------------
